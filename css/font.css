@@ -1,0 +1,21 @@
+/*==================Lato================*/
+@font-face {
+    font-family: 'lato_regular';
+    src: url('../font/Lato/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'lato_black';
+    src: url('../font/Lato/Lato-Black.ttf');
+}
+
+@font-face {
+    font-family: 'lato_bold';
+    src: url('../font/Lato/Lato-Bold.ttf');
+}
+
+/*================Quicksand=================*/
+@font-face {
+    font-family: 'Quicksand_bold';
+    src: url('../font/quicksand/Quicksand-Bold.ttf');
+}
